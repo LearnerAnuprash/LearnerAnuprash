@@ -1,53 +1,43 @@
-# 💻 My Projects Portfolio
+# 👋 Hello there! I'm Anuprash
 
-Welcome to my project portfolio! Here you'll find a collection of web-based projects I've built to sharpen my development skills.
-
----
-
-## 🎮 Tic Tac Toe Game
-
-A simple and fun browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
-
-🔗 [Play the Game](https://learneranuprash.github.io/TicTacToe/)
-
-🛠️ **Technologies Used**:
-- HTML
-- CSS
-- JavaScript
-
-📌 **Features**:
-- Two-player mode
-- Win/draw detection
-- Responsive design
+Welcome to my GitHub! I'm a passionate and curious front-end web developer who loves turning ideas into interactive digital experiences. Whether it's a simple game or a productivity tool, I enjoy building clean, user-friendly, and functional web applications that make people smile or simplify their lives.
 
 ---
 
-## 🕒 Date & Time Web App
+## 🚀 My Deployed Projects
 
-A beautiful, responsive digital clock with 12/24-hour toggle and dark/light mode features.
+Here are some of the projects I’ve built — all hosted and fully functional in your browser. Go ahead, click and explore! 👇
 
-🔗 [View Clock](https://learneranuprash.github.io/Date_And_Time/)
+### 📝 [To-Do List](https://learneranuprash.github.io/To-DoList/)
+A sleek and minimal productivity app to keep your tasks organized. Built with simplicity and efficiency in mind.
 
-🛠️ **Technologies Used**:
-- HTML
-- CSS (with rem/em units, transitions, media queries)
-- JavaScript
+### ✊ [Rock Paper Scissor](https://learneranuprash.github.io/RockPaperScissor/)
+A fun and interactive game that challenges your luck and logic. Includes smooth animations and a clean interface.
 
-📌 **Features**:
-- Live time display
-- 12-hour / 24-hour format toggle
-- Dark mode / Light mode background switching
-- Hover tooltips for Hour, Minute, Second
-- Responsive layout
+### ❌⭕ [Tic Tac Toe](https://learneranuprash.github.io/TicTacToe/)
+The classic game with a fresh look and responsive design. Challenge your mind and play anytime, anywhere!
+
+### 🕒 [Date & Time Web App](https://learneranuprash.github.io/Date_And_Time/)
+A beautifully animated digital clock that displays real-time date and time with light/dark mode and 12/24-hour toggle options.
 
 ---
 
-## 📂 More Projects Coming Soon...
-
-Stay tuned! I’m working on adding more cool projects here.
+## 🛠️ Technologies I Use
+- HTML5, CSS3, JavaScript (Vanilla)
+- Responsive Design & UI/UX Principles
+- Git & GitHub for version control
+- Clean, maintainable, and reusable code
 
 ---
 
-📫 **Get in Touch**
+## 💡 What Drives Me
+I love building things that are both visually appealing and functionally sharp. I'm always experimenting, learning, and striving to become a better developer every day. Whether it's a game, a tool, or a feature — I believe that every line of code is a step toward something meaningful.
 
-Feel free to connect or reach out to me if you'd like to collaborate or just say hi! 😊
+---
+
+## 📫 Let's Connect!
+I'm always open to feedback, collaboration, or just a good tech talk. Feel free to reach out or explore my repos!
+
+---
+
+Thanks for stopping by! 😊
